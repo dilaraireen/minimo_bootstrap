@@ -1,0 +1,115 @@
+@media (max-width: 320px){
+    .getaway {
+        margin-top: 30px !important;
+    }
+
+    .blog_pic {
+        padding-top: 70px !important;
+    }
+    
+    .custom_form {
+        padding-left: 0px !important ;
+    
+        position: relative !important;
+    }
+    .custom_button_icon {
+        
+        position: absolute !important;
+        left: 263px !important;
+    } 
+    .custom_blog_button {
+      
+        padding-bottom: 100px !important;
+    }
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 321px) and (max-width: 575.98px) { 
+    
+    .getaway {
+        margin-top: 30px !important;
+    }
+    .blog_pic {
+        padding-top: 70px !important;
+    } 
+
+   
+    .custom_form {
+        padding-left: 57px !important ;
+        position: relative !important;
+    }
+    .custom_button_icon {
+        
+        position: absolute !important;
+        left: 322px !important;
+    }
+    .custom_blog_button {
+      
+        padding-bottom: 100px !important;
+    }
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .custom_form {
+        padding-left: 200px !important ;
+        position: relative !important;
+    }
+    .custom_button_icon {
+        
+        position: absolute !important;
+        left: 524px !important;
+    }
+    .custom_blog_button {
+      
+        padding-bottom: 100px !important;
+    }
+    ul.footer_left {
+        margin: 0 auto;
+    }
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    h1.caption {
+       
+        font-size: 21px !important;
+       
+    }
+    .blog_pic {
+        padding-top: 70px !important;
+    }
+    .custom_blog_button {
+      
+        padding-bottom: 100px !important;
+    }
+    
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .custom_form {
+        padding-left: 100px !important ;
+        position: relative !important;
+    }
+    .custom_button_icon {
+        
+        position: absolute !important;
+        left: 368px !important;
+    }
+
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .custom_navbar {
+        padding-right: 3rem !important;
+    } 
+    .custom_form {
+        padding-left: 203px !important ;
+        position: relative !important;
+    }
+    .custom_button_icon {
+        
+        position: absolute !important;
+        left: 468px !important;
+    }
+ }
